@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "Visby CF Extra Bold";
+  src: url(./fonts/VisbyCF-ExtraBold.otf);
+}
+
+@font-face {
+  font-family: "Visby CF Regular";
+  src: url(./fonts/VisbyCF-Regular.otf);
+}
+
+@font-face {
+  font-family: "Visby CF Light";
+  src: url(./fonts/VisbyCF-Light.otf);
+}
+
+@font-face {
+  font-family: "Visby CF Heavy";
+  src: url(./fonts/VisbyCF-Heavy.otf);
+}

@@ -6,8 +6,7 @@ function App() {
   return (
     <div>
     <Bar/>
-    <LandingPage>
-    </LandingPage>
+    <LandingPage/>
     </div>
 
   );
