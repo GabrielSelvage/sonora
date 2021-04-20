@@ -1,2 +1,2 @@
 # sonora
-EAD Sonora
+EAD Sonora com react
